@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Word Text
 
-You can use the [editor on GitHub](https://github.com/HELOOOM/Word-Text/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Introduction
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Un éditeur de texte est un logiciel destiné à la création et l'édition de fichiers textes. Chaque système d'exploitation fournit un éditeur, tant son usage est courant, voire incontournable pour certaines tâches informatiques de base comme l'administration de système et le développement de logiciels.
 
-### Markdown
+# Summary
+- [Application Apearance](#application-apearance)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [Menu interfaces](#menu-interfaces)
 
-```markdown
-Syntax highlighted code block
+- [WordText Header](#wordtext-header)
 
-# Header 1
-## Header 2
-### Header 3
+   - [Private Slots](#private-slots)
+   
+   - [UI](#ui)
+ 
+- [WordText Cpp](#wordtext-cpp)
 
-- Bulleted
-- List
+- [Functions implementation](#functions-implementation)
+  - [saveContent](#savecontent)
+  - [loadContent](#loadcontent)
+  
+- [Slots implementation](#slots-implementation)
+  - [on_actionOpen_triggered](#on-actionopen-triggered)
+  - [on_actionSave_triggered](#on-actionsave-triggered)
+  
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HELOOOM/Word-Text/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
