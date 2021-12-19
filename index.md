@@ -1,5 +1,7 @@
 # Word Text
 
+## ` BY : Sakassa / Benzemroun / Lakhmiri`
+
 # Introduction
 
 Un éditeur de texte est un logiciel destiné à la création et l'édition de fichiers textes. Chaque système d'exploitation fournit un éditeur, tant son usage est courant, voire incontournable pour certaines tâches informatiques de base comme l'administration de système et le développement de logiciels.
