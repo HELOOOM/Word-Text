@@ -76,6 +76,9 @@ private:
 
 };
 ```
+
+![IMAGE](desiner)
+
 ## WordText Cpp
 ```c++
 #include "wordtext.h"
