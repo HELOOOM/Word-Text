@@ -67,6 +67,7 @@ private slots:
 ```
 
 ## UI
+
 ```c++
 private:
     Ui::wordtext *ui;
