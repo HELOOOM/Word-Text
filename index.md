@@ -77,7 +77,7 @@ private:
 };
 ```
 
-![IMAGE](desiner)
+![IMAGE](desiner.png)
 
 ## WordText Cpp
 ```c++
