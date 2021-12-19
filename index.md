@@ -78,7 +78,7 @@ private:
 };
 ```
 
-![IMAGE](desiner.png)
+![IMAGE](dwo.png)
 
 ## WordText Cpp
 ```c++
